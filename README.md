@@ -6,3 +6,5 @@ I bring 5 years of professional experience in IT, having previously worked at TE
 I am passionate about working with large datasets, querying them using SQL to extract the required data, transforming them to the required format by doing data cleansing & finally loading them back for dashboarding purposes using the **Tableau** data visualization tool. 
 Being detail oriented helps me to isolate the problems & find ways to improve them.
 
+Currently, I am pursuing Amazon's Silver Lining program to become a cloud engineer by working on different AWS services.
+
