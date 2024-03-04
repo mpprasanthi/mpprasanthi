@@ -10,3 +10,6 @@ Volunteering for a Catchafire client to identify a Customer Relationship Managem
 I am passionate about working with large datasets, querying them using SQL to extract the required data, transforming them to the required format by doing data cleansing & finally loading them back for dashboarding purposes using the **Tableau** data visualization tool. 
 Being detail oriented helps me to isolate the problems & find ways to improve them.
 
+![Alt text](https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1717632000&v=beta&t=QLn0bAyqw3qev7AcFhNH_iiWYQMbittILeKlGMoyZ08) ### Amazon Silver Lining Participant - 2024
+
+
