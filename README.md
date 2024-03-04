@@ -10,7 +10,3 @@ Volunteering for a Catchafire client to identify a Customer Relationship Managem
 I am passionate about working with large datasets, querying them using SQL to extract the required data, transforming them to the required format by doing data cleansing & finally loading them back for dashboarding purposes using the **Tableau** data visualization tool. 
 Being detail oriented helps me to isolate the problems & find ways to improve them.
 
-### Data Analyst 
-![Alt text](C:\Users\mppra\OneDrive\Desktop\Sai Prashanthi\TEKSYSTEM\TEK LOGO)
-
-
