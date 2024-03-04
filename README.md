@@ -11,6 +11,8 @@ I am passionate about working with large datasets, querying them using SQL to ex
 Being detail oriented helps me to isolate the problems & find ways to improve them.
 
 ### Amazon Silver Lining Participant - 2024
-![Alt text](https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1717632000&v=beta&t=QLn0bAyqw3qev7AcFhNH_iiWYQMbittILeKlGMoyZ08) Pursuing 2024 Amazon Silver Lining program by making use of various AWS services including EC2 instance, S3 buckets, building 3-tier web applications along with the automation, deployment &amp; provisioning in AWS.
+
+![Alt text](https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1717632000&v=beta&t=QLn0bAyqw3qev7AcFhNH_iiWYQMbittILeKlGMoyZ08)
+Pursuing 2024 Amazon Silver Lining program by making use of various AWS services including EC2 instance, S3 buckets, building 3-tier web applications along with the automation, deployment &amp; provisioning in AWS.
 
 
