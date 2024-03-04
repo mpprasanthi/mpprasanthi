@@ -12,7 +12,21 @@ Being detail oriented helps me to isolate the problems & find ways to improve th
 
 ### Amazon Silver Lining Participant - 2024
 
-![Alt text](https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1717632000&v=beta&t=QLn0bAyqw3qev7AcFhNH_iiWYQMbittILeKlGMoyZ08)
+ ![Alt text](https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1717632000&v=beta&t=QLn0bAyqw3qev7AcFhNH_iiWYQMbittILeKlGMoyZ08)
+
 Pursuing 2024 Amazon Silver Lining program by making use of various AWS services including EC2 instance, S3 buckets, building 3-tier web applications along with the automation, deployment &amp; provisioning in AWS.
+
+### Catchafire non-profit Volunteer - CRM Audit
+
+![Alt text](https://media.licdn.com/dms/image/D4E0BAQFNgRynqR19Aw/company-logo_200_200/0/1697199213815/catchafire_logo?e=1717632000&v=beta&t=X7Z5oKb04neW_5qvqjgHf7OSIdOUnCxFaZOjNiudFz0)
+
+Volunteering to help Blue Bear School of Music identify a Customer Relationship Management (CRM) system to track their donor, volunteer, and constituent database needs by assessing the organization’s current CRM practices with recommendations
+on improvements such as setup, maintenance, integrations with other systems, and insights reporting with a goal of saving $3,315 to maximize their usage of current Kindful CRM subscription.
+
+ ## Data Analyst - TEKsystems 
+![Alt text](https://media.licdn.com/dms/image/D4E0BAQFLrODAdU8Mdw/company-logo_200_200/0/1688568814937/teksystems_logo?e=1717632000&v=beta&t=3YxThy5dMmmdlJdKaCBVO1ktD8R5vaobSsos6qKW_TQ)  
+
+Worked as a Data Analyst for an internal Sales Management system to perform Exploratory Data Analysis along with Data cleansing & transformation to generate the required dashboards using Tableau visualization tool that were periodically published by the data storyteller to develop meaningful articles that helped to understand the organization’s growth in a quarterly basis. 
+
 
 
